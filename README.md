@@ -1,2 +1,2 @@
 # Programas-C
-Programas desenvolvios em C para entendimento da linguagem
+Programas desenvolvidos em C para entendimento da linguagem
